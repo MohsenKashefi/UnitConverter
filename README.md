@@ -23,10 +23,7 @@ This app allows users to convert between units across multiple categories such a
 
 ## 📸 Screenshots
 
-|-------------|---------------------|
-| ![Screenshot1](UnitConverter.png) ||
-
----
+<img src="UnitConverter.png" width="200"/>
 
 ## 🛠️ Tech Stack
 - **Kotlin**  
@@ -40,4 +37,4 @@ This app allows users to convert between units across multiple categories such a
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/unit-converter.git
+git clone https://github.com/MohsenKashefi/unit-converter.git
