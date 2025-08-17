@@ -22,11 +22,9 @@ This app allows users to convert between units across multiple categories such a
 ---
 
 ## 📸 Screenshots
-> Add screenshots of your app UI here (emulator/device). Example placeholders below:
 
-| Home Screen | Conversion Example |
 |-------------|---------------------|
-| ![Screenshot1](screenshots/home.png) | ![Screenshot2](screenshots/conversion.png) |
+| ![Screenshot1](UnitConverter.png) ||
 
 ---
 
